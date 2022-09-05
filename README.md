@@ -3,7 +3,10 @@
 ## Info
 Most of my cool repositories are private, although there are some nice public ones below.
 
+## Spankerfield
 https://github.com/Sixthworks/spankerfield
+
+![Stars](https://img.shields.io/github/stars/Sixthworks/spankerfield?style=social)
 
 ## Everything I know
 - HTML
