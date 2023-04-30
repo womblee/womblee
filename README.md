@@ -18,5 +18,3 @@ https://github.com/Sixthworks/spankerfield
 - C#
 - C++
 - PHP
-- MySQL
-- PostgreSQL
