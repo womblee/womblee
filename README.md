@@ -11,8 +11,7 @@ https://github.com/Sixthworks/spankerfield
 ## Everything I know
 - HTML
 - CSS
-- JS
-- Node JS
+- JS, Node JS, MySQL/PostgreSQL
 - Python
 - Lua
 - C#
