@@ -15,5 +15,5 @@ https://github.com/Sixthworks/spankerfield
 - Python
 - Lua
 - C#
-- C++
+- C++, ASM
 - PHP
