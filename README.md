@@ -3,8 +3,10 @@
 ## Info
 Most of my cool repositories are private, although there are some nice public ones below.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=womblee&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## Spankerfield
-https://github.com/Sixthworks/spankerfield
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sixthworks&repo=spankerfield)](https://github.com/Sixthworks/spankerfield)
 
 ![Stars](https://img.shields.io/github/stars/Sixthworks/spankerfield?style=social)
 
