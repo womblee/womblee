@@ -39,13 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=womblee&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="womblee's languages" />
 </p>
 
-<h2 align="center">👨‍💻 Note</h2>
-
-<p align="center">
-  Most of my cool repositories are private, but check out my public ones below!
-</p>
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
 </p>
